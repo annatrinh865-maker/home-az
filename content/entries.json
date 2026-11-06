@@ -1,0 +1,147 @@
+{
+  "site": {
+    "name": "Home, A–Z",
+    "tagline": "A Dictionary of Home",
+    "project": "30-day poster project",
+    "school": "Shih Chien University",
+    "department": "Department of Communication Design",
+    "placeholders": [
+      "[YOUR NAME]",
+      "[YOUR EMAIL]",
+      "[YOUR INSTAGRAM]",
+      "[YOUR PORTFOLIO LINK]",
+      "[YOUR PHOTO]",
+      "[YOUR OWN NOTE ABOUT WHY HOME MATTERS TO YOU]"
+    ]
+  },
+  "chapters": [
+    {
+      "cls": "t-pink",
+      "img": "images/posters/day09-house.jpg",
+      "alt": "Day 9 poster: red crayon house",
+      "num": "chapter 01",
+      "title": "Remembered",
+      "text": "A crayon house, mama, papa and me. The first definitions of home are drawn by a child.",
+      "day": "Day 9"
+    },
+    {
+      "cls": "t-yellow",
+      "img": "images/posters/day10-where.jpg",
+      "alt": "Day 10 poster: Where? Where? with Everywhere and Nowhere houses",
+      "num": "chapter 02",
+      "title": "Address",
+      "text": "Where? Everywhere? Nowhere? Home as a question with no zip code.",
+      "day": "Day 10"
+    },
+    {
+      "cls": "t-blue",
+      "img": "images/posters/day11-body.jpg",
+      "alt": "Day 11 poster: a person inside a house made of flesh-colored pipes",
+      "num": "chapter 03",
+      "title": "Body",
+      "text": "Home is a part of me. Walls made of arms, eyes and feet.",
+      "day": "Day 11"
+    },
+    {
+      "cls": "t-cream",
+      "img": "images/posters/day12-shells-home.jpg",
+      "alt": "Day 12 poster: four shells spelling HOME over a blue apartment facade",
+      "num": "chapter 04",
+      "title": "Shell",
+      "text": "Every shell carries a home. Seven windows, seven stories.",
+      "day": "Day 12"
+    }
+  ],
+  "entries": [
+    {
+      "cls": "t-blue",
+      "img": "images/posters/day09-house.jpg",
+      "alt": "Day 9 poster: red crayon house on blue paper",
+      "word": "house",
+      "meta": "/haʊs/ · n.",
+      "def": "1. A triangle on top, a door, one watchful window, and smoke that curls like a doodle. 2. What home looks like before you learn perspective.",
+      "day": "Day 9"
+    },
+    {
+      "cls": "t-yellow",
+      "img": "images/posters/day09-family.jpg",
+      "alt": "Day 9 poster: mama, me and papa drawn in crayon on yellow paper",
+      "word": "family",
+      "meta": "/ˈfæm.ə.li/ · n.",
+      "def": "Mama, papa, me — drawn by how tall each one feels. The smallest figure is the only one standing in green.",
+      "day": "Day 9"
+    },
+    {
+      "cls": "t-pink",
+      "img": "images/posters/day09-bed.jpg",
+      "alt": "Day 9 poster: a drawn bed with pillows on red paper",
+      "word": "bed",
+      "meta": "/bed/ · n.",
+      "def": "The most honest room of the house: the place where you can say, out loud or not, that you don’t want to wake up.",
+      "day": "Day 9"
+    },
+    {
+      "cls": "t-green",
+      "img": "images/posters/day09-show.jpg",
+      "alt": "Day 9 poster: a drawn TV with an antenna on green paper",
+      "word": "show",
+      "meta": "/ʃoʊ/ · n.",
+      "def": "A glowing box with a wobbly antenna and two tiny dancers inside. Home is whatever plays your favorite thing.",
+      "day": "Day 9"
+    },
+    {
+      "cls": "t-blue",
+      "img": "images/posters/day09-chosen.jpg",
+      "alt": "Day 9 poster: a drawn green top and yellow shorts on pink paper",
+      "word": "chosen",
+      "meta": "/ˈtʃoʊ.zən/ · adj.",
+      "def": "What someone else picked for you each morning: a green top with a small heart, yellow shorts. Care, in the shape of clothes.",
+      "day": "Day 9"
+    },
+    {
+      "cls": "t-yellow",
+      "img": "images/posters/day10-address.jpg",
+      "alt": "Day 10 poster: the words Your Address, Everywhere, Nowhere over a blue halftone house",
+      "word": "address",
+      "meta": "/ˈæd.res/ · n.",
+      "def": "Where? Where? The line you write on forms until it stops sounding like a place at all.",
+      "day": "Day 10"
+    },
+    {
+      "cls": "t-pink",
+      "img": "images/posters/day10-where.jpg",
+      "alt": "Day 10 poster: Where? Where? with Everywhere and Nowhere houses",
+      "word": "nowhere",
+      "meta": "/ˈnoʊ.wer/ · adv. · also: everywhere",
+      "def": "Two answers to the same question. Home can be nowhere you can point to, and everywhere you stop long enough to be yourself.",
+      "day": "Day 10"
+    },
+    {
+      "cls": "t-green",
+      "img": "images/posters/day11-body.jpg",
+      "alt": "Day 11 poster: a person standing inside a house built from flesh-colored pipes",
+      "word": "body",
+      "meta": "/ˈbɑː.di/ · n.",
+      "def": "The first house you get, and the one you can’t move out of. Walls of arms, windows that are eyes, floors that are feet.",
+      "day": "Day 11"
+    },
+    {
+      "cls": "t-blue",
+      "img": "images/posters/day12-shells-home.jpg",
+      "alt": "Day 12 poster: four colorful shells with letters spelling HOME",
+      "word": "shell",
+      "meta": "/ʃel/ · n.",
+      "def": "A home that grows out of the one living in it. No two are alike, and none is ever left behind.",
+      "day": "Day 12"
+    },
+    {
+      "cls": "t-yellow",
+      "img": "images/posters/day12-grandma.jpg",
+      "alt": "Day 12 poster: a grandmother leaning out of a shuttered window inside a shell",
+      "word": "window",
+      "meta": "/ˈwɪn.doʊ/ · n.",
+      "def": "The small frame where a life leans out: a grandmother, a couple, a cat, two dogs, a child on a mother’s arm.",
+      "day": "Day 12"
+    }
+  ]
+}

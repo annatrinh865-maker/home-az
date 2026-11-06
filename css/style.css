@@ -1,0 +1,13 @@
+/* Home, A–Z — shared styles. Colors/fonts/tokens are documented in handoff/DESIGN_SPEC.md */
+body{margin:0;background:#FDF1E0;color:#111;font-family:'Space Grotesk',sans-serif}
+*{box-sizing:border-box}
+a{color:inherit;text-decoration:none}
+a:hover{color:#E8170F}
+.t-blue{background:#3F95F0 url(../images/textures/tex-blue.jpg) 0 0/1060px auto repeat;color:#111}
+.t-yellow{background:#FFD60A url(../images/textures/tex-yellow.jpg) 0 0/1060px auto repeat;color:#111}
+.t-red{background:#E8170F url(../images/textures/tex-red.jpg) 0 0/1060px auto repeat;color:#FDF1E0}
+.t-green{background:#55BE5E url(../images/textures/tex-green.jpg) 0 0/1060px auto repeat;color:#111}
+.t-pink{background:#F78FB8 url(../images/textures/tex-pink.jpg) 0 0/1060px auto repeat;color:#111}
+.t-cream{background:#FDF1E0;color:#111}
+.sticker{color:#FDF1E0;text-shadow:3px 3px 0 #111,-3px -3px 0 #111,3px -3px 0 #111,-3px 3px 0 #111,0 4px 0 #111,0 -3px 0 #111,4px 0 0 #111,-4px 0 0 #111}
+.btn:hover{color:#111;transform:translate(2px,2px)}
